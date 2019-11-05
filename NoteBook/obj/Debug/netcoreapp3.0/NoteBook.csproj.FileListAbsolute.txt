@@ -1,0 +1,11 @@
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.exe
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.deps.json
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.runtimeconfig.json
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.runtimeconfig.dev.json
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.dll
+C:\Users\som\source\repos\NoteBook\NoteBook\bin\Debug\netcoreapp3.0\NoteBook.pdb
+C:\Users\som\source\repos\NoteBook\NoteBook\obj\Debug\netcoreapp3.0\NoteBook.csprojAssemblyReference.cache
+C:\Users\som\source\repos\NoteBook\NoteBook\obj\Debug\netcoreapp3.0\NoteBook.AssemblyInfoInputs.cache
+C:\Users\som\source\repos\NoteBook\NoteBook\obj\Debug\netcoreapp3.0\NoteBook.AssemblyInfo.cs
+C:\Users\som\source\repos\NoteBook\NoteBook\obj\Debug\netcoreapp3.0\NoteBook.dll
+C:\Users\som\source\repos\NoteBook\NoteBook\obj\Debug\netcoreapp3.0\NoteBook.pdb
