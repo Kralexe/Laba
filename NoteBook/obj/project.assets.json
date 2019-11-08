@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\som\\source\\repos\\NoteBook\\NoteBook\\NoteBook.csproj",
+      "projectUniqueName": "C:\\Users\\som\\Documents\\Laba\\NoteBook\\NoteBook.csproj",
       "projectName": "NoteBook",
-      "projectPath": "C:\\Users\\som\\source\\repos\\NoteBook\\NoteBook\\NoteBook.csproj",
+      "projectPath": "C:\\Users\\som\\Documents\\Laba\\NoteBook\\NoteBook.csproj",
       "packagesPath": "C:\\Users\\som\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\som\\source\\repos\\NoteBook\\NoteBook\\obj\\",
+      "outputPath": "C:\\Users\\som\\Documents\\Laba\\NoteBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
