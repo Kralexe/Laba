@@ -26,6 +26,7 @@ namespace NoteBook
                     ViewAllNotes();
                     break;
                 case 5:
+                    Console.Beep();
                     Environment.Exit(0);
                     break;
                 default:
